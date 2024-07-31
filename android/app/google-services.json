@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649187457700",
+    "project_id": "firabasernseries",
+    "storage_bucket": "firabasernseries.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649187457700:android:3b5815cbcfc76ec2f34431",
+        "android_client_info": {
+          "package_name": "com.firebasernseries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649187457700-i8gvqigp5agfhlti3rjn7d4m26n1fj29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV80xppwT8OerwMchV2ax2T8WAtHGRxtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649187457700-i8gvqigp5agfhlti3rjn7d4m26n1fj29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
